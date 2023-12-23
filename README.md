@@ -1,4 +1,4 @@
-# delta-demo
+# Udiya
 This is a demo for Git &amp; Git-Hub class.
 
 
